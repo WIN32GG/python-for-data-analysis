@@ -5,13 +5,13 @@
 * `api.py` A light api to call the model
 * `model.pck` a pickle save of the model
 * `dataset.xls` the dataset
-* `requirement.txt` the requirement file for this project
+* `requirements.txt` the requirement file for this project
 
 ### Quick start
 
 - Install the dependencies
 ```bash
-pip -r requirement.txt
+pip install -r requirements.txt
 ```
 
 - Start the web api
