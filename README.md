@@ -6,6 +6,7 @@
 * `model.pck` a pickle save of the model
 * `dataset.xls` the dataset
 * `requirements.txt` the requirement file for this project
+* `Python for datascience.pptx` Required pptx. Presenting the dataset and choosen models.
 
 ### Quick start
 
